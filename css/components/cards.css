@@ -1,0 +1,48 @@
+.card {
+  width: 250px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  padding: 50px;
+  border: 1px solid rgb(230, 230, 230);
+  background-color: aliceblue;
+  margin: 25px 25px;
+}
+.card p {
+  opacity: 0.5;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.card p {
+  opacity: 0.5;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230, 230, 230);
+}
+.card img {
+  height: 100px;
+  width: 153.9px;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+}
